@@ -25,7 +25,7 @@ convert("Hello, World.", "uppercasesnake")
 Output: HELLO_WORLD
 ```
 
-## Solution: 
+## Solution Summary: 
 The solution includes custom types passed as arguments to the functions and the `switch` case only usable in python 3.10.
 
 ## Resources
